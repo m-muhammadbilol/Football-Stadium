@@ -1,0 +1,17 @@
+.bg-img{
+    width: 600px;
+    height: 382px;
+    background-image: url("/img/staduim.png");
+    margin: 200px;
+    margin-left: 450px;
+    border: 20px solid lightgreen;
+}
+
+.ball{
+    border-radius: 100%;
+    width: 35px;
+    height: 35px;
+    background-color: black;
+    position: absolute;
+    
+}
